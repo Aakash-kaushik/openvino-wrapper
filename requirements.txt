@@ -1,0 +1,4 @@
+numpy==1.16.3
+opencv_python==4.4.0.42
+openvino==0.0.1
+progress==1.5
